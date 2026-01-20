@@ -12,18 +12,13 @@
 
     <!-- Latest release -->
     <item>
-      <title>SC Menu 2.1</title>
-        <title>SC Menu 2.1</title>
+      <title>SC Menu 2.1</title>        
   <description sparkle:format="plain-text"><![CDATA[
 - Added Sparkle-based updating
 - Fixed things
 - Did stuff!
   ]]></description>
-      <!-- Human-facing release notes page (can be GitHub release page) -->
-      <!-- <sparkle:releaseNotesLink>
-        https://github.com/boberito/sc-menu-test/releases/tag/2.1
-      </sparkle:releaseNotesLink> -->
-
+      
       <!-- Publish date (RFC 2822) -->
       <pubDate>Tue, 20 Jan 2026 12:00:00 -0500</pubDate>
 
