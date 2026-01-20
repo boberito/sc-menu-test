@@ -6,17 +6,17 @@
 
   <channel>
     <title>SC Menu</title>
-    <link>https://github.com/boberito/sc_menu</link>
+    <link>https://github.com/boberito/sc-menu-test</link>
     <description>Software updates for SC Menu.</description>
     <language>en</language>
 
     <!-- Latest release -->
     <item>
-      <title>SC Menu 2.0</title>
+      <title>SC Menu 2.1</title>
 
       <!-- Human-facing release notes page (can be GitHub release page) -->
       <sparkle:releaseNotesLink>
-        https://github.com/boberito/sc_menu/releases/tag/2.0
+        https://github.com/boberito/sc-menu-test/releases/tag/2.1
       </sparkle:releaseNotesLink>
 
       <!-- Publish date (RFC 2822) -->
@@ -27,11 +27,11 @@
 
       <!-- The actual update file users download -->
       <enclosure
-        url="https://github.com/boberito/sc_menu/releases/download/2.0/SC_Menu.dmg"
+        url="https://github.com/boberito/sc-menu-test/releases/download/2.0/SC_Menu.dmg"
         length="__BYTES__"
         type="application/octet-stream"
-        sparkle:version="200"
-        sparkle:shortVersionString="2.0"
+        sparkle:version="210"
+        sparkle:shortVersionString="2.1"
         sparkle:edSignature="__EDDSA_SIGNATURE__"
       />
 
