@@ -20,14 +20,14 @@
       </sparkle:releaseNotesLink>
 
       <!-- Publish date (RFC 2822) -->
-      <pubDate>Fri, 09 Jan 2026 12:00:00 -0500</pubDate>
+      <pubDate>Tue, 20 Jan 2026 12:00:00 -0500</pubDate>
 
       <!-- Optional: author -->
       <dc:creator>Bob Gendler</dc:creator>
 
       <!-- The actual update file users download -->
       <enclosure
-        url="https://github.com/boberito/sc-menu-test/releases/download/2.0/SC_Menu.dmg"
+        url="https://github.com/boberito/sc-menu-test/releases/download/2.1/SC_Menu.dmg"
         length="__BYTES__"
         type="application/octet-stream"
         sparkle:version="210"
