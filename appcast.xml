@@ -30,7 +30,7 @@
         url="https://github.com/boberito/sc-menu-test/releases/download/2.1/SC_Menu.dmg"
         length="__BYTES__"
         type="application/octet-stream"
-        sparkle:version="210"
+        sparkle:version="810"
         sparkle:shortVersionString="2.1"
         sparkle:edSignature="__EDDSA_SIGNATURE__"
       />
