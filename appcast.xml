@@ -28,7 +28,6 @@
       <!-- The actual update file users download -->
       <enclosure
         url="https://github.com/boberito/sc-menu-test/releases/download/2.1/SC_Menu.pkg"
-        length="__BYTES__"
         type="application/octet-stream"
         sparkle:version="810"
         sparkle:shortVersionString="2.1"
