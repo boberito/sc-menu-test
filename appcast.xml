@@ -27,12 +27,12 @@
 
       <!-- The actual update file users download -->
       <enclosure
-        url="https://github.com/boberito/sc-menu-test/releases/download/2.1/SC_Menu.dmg"
+        url="https://github.com/boberito/sc-menu-test/releases/download/2.1/SC_Menu.pkg"
         length="__BYTES__"
         type="application/octet-stream"
         sparkle:version="810"
         sparkle:shortVersionString="2.1"
-        sparkle:edSignature="__EDDSA_SIGNATURE__"
+        sparkle:edSignature="MWsro1w5aSIoM5U9nl8OWZG5IRvLsh7L3y+7KIzUEOPE461GFgMyc9neqMCGBiIicI0lfYxEa4upSTwzbEvEAQ=="
       />
 
       <!-- Optional: minimum OS -->
