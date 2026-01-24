@@ -28,10 +28,10 @@
       <!-- The actual update file users download -->
       <enclosure
         url="https://github.com/boberito/sc-menu-test/releases/download/2.1/SC_Menu.dmg"
-        type="application/octet-stream"
+        type="application/x-apple-diskimage"
         sparkle:version="810"
         sparkle:shortVersionString="2.1"
-        sparkle:edSignature="k3i3D+LhhpRSvpufEKRAO3Xj+HR3RCjQqHM8vEWpSEGt+TfvCzlzU6jv8d24UEPBaXux6zsMtSiNjmRS1ORfCg==" 
+        sparkle:edSignature="k3i3D+LhhpRSvpufEKRAO3Xj+HR3RCjQqHM8vEWpSEGt+TfvCzlzU6jv8d24UEPBaXux6zsMtSiNjmRS1ORfCg=="
         length="4259278"
       />
 
